@@ -1,4 +1,4 @@
-# Python Programs – Hello World & Fibonacci
+# Python Programs – Basic Assignments
 
 This repository contains basic Python programs created for academic submission.
 
@@ -39,5 +39,28 @@ Fn = F(n-1) + F(n-2)
 
 ---
 
-## Author:
+## Program 3: Positive Numbers in a List
+
+### Description:
+This program prints all positive numbers from a given list.
+
+### Example Input & Output:
+
+Input:  
+list1 = [12, -7, 5, 64, -14]  
+Output: 12, 5, 64  
+
+Input:  
+list2 = [12, 14, -95, 3]  
+Output: [12, 14, 3]
+
+### Code Explanation:
+- A list may contain positive and negative numbers.
+- A loop is used to traverse the list.
+- An if condition checks whether a number is positive.
+- Only positive numbers are printed or stored.
+
+---
+
+## Author
 Surbhi
